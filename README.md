@@ -1,6 +1,7 @@
 ### Hi there, 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2CF77E&random=false&width=435&lines=Hi%2C+It's+Marc+developer+Frontend;I+like+also+the+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=2CF77E&random=false&width=435&lines=Hi%2C+It's+Marc+developer+Frontend;I+like+also+the+Backend)](https://git.io/typing-svg)          [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=500&color=2CF77E&center=true&multiline=true&random=false&width=435&height=430&lines=111111111111111111111;111111111111111111111;111..11111111111..111;11....111111111....11;111..11111111111..111;111111111111111111111;...111111111111111...;11.111111111111111.11;111..11111111111..111;11111..1111111..11111;1111111.......1111111;111111111111111111111;111111111111111111111)](https://git.io/typing-svg)
+
 
 ## Some tools and languages I have learned and used
 ______________________________________
@@ -30,7 +31,6 @@ ________________________________________
 _________________________________________
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=500&color=2CF77E&center=true&multiline=true&random=false&width=435&height=430&lines=111111111111111111111;111111111111111111111;111..11111111111..111;11....111111111....11;111..11111111111..111;111111111111111111111;...111111111111111...;11.111111111111111.11;111..11111111111..111;11111..1111111..11111;1111111.......1111111;111111111111111111111;111111111111111111111)](https://git.io/typing-svg)
 
 
 
