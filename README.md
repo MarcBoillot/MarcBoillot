@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+It's+Marc+developer+Frontend;And+I+like+the+Backend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=2000&?lines=Hi,+It's+Marc+developer+Frontend;And+I+like+the+Backend)](https://git.io/typing-svg)
 
 ## Some tools and languages I have learned and used
 ______________________________________
