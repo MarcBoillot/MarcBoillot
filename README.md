@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## Some tools and languages I have learned and used
 ______________________________________
 ### Languages
@@ -23,6 +25,7 @@ ________________________________________
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 
 
+_________________________________________
 
 
     
