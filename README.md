@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+a+developer+frontend+and+backend+for+fun;Second+line+of+text)](https://git.io/typing-svg)
 
 ## Some tools and languages I have learned and used
 ______________________________________
