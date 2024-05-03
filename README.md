@@ -61,3 +61,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+events {}
+
+http {
+  # Définition de l'upstream pour les différents serveurs
+  upstream frontend_vuejs {
+    server vuejs:8080;
+  }
+
+  upstream backend_laravel {
+    server laravel_nginx:8888;
+  }
+
+  server {
+    listen 80;
+    server_name laravel.localhost;
+
+    location /vuejs {
+      proxy_pass http://frontend_vuejs;
+    }
+    
+    location /laravel_nginx {
+      proxy_pass http://backend_laravel;
+    }
+  }
+}
+
